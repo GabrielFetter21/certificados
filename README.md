@@ -1,4 +1,4 @@
 # Certificados de Cursos Concluídos
--> Curso Ransomware
--> Curso Aplicações Mobile com Android Studio
+-> Curso Ransomware\n
+-> Curso Aplicações Mobile com Android Studio\n
 -> 
